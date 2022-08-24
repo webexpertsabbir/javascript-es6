@@ -10,6 +10,7 @@ console.log(name, sthan);
 
 // array destructuring
 
+
 const [frist, second] = [10, 20, 30, 40];
 console.log(frist, second);
 
