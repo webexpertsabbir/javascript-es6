@@ -17,4 +17,11 @@ const doubleIt = (num) => num * 2;
 // no paramiter simple virsion
 const fiveTime = num => num * 5;
 
+// multi line arrow function
+// if you want return samthing, use the return
+const doMath =(x, y, z) => {
+    const sum = x + y + z;
+    return sum;
+}
+
 
