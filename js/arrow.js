@@ -30,3 +30,6 @@ const add5 = (first, second) => first + second;
 
 const total = add5(20, 30);
 console.log(total);
+
+
+//What is the difference between arrow function and function declaration? and function expretion
